@@ -1,5 +1,5 @@
 # Retail Chain Performance Analysis
-
+ 
 ## Project Status: Day 2 COMPLETE
 
 ### Completed Milestones:
