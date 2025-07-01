@@ -91,7 +91,7 @@
 ---
 
 
-## ⚡ Day 4: Database Optimization & Business Automation
+##  Day 4: Database Optimization & Business Automation
 
 ### Performance Engineering Achievements:
 
