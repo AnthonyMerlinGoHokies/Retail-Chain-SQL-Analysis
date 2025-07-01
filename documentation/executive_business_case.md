@@ -15,7 +15,7 @@ Northwind Trading Company operates as a specialty food importer/distributor with
 -  **Revenue Declining**: Quarterly revenue trend showing downward trajectory
 -  **Customer Concentration Risk**: Top 5 customers represent 33.2% of total revenue
 -  **High-Value Transactions**: $587.37 average order value indicates B2B premium positioning
-- 🌍 **Global Reach**: Successfully serving 12+ countries with growth opportunities identified
+-  **Global Reach**: Successfully serving 12+ countries with growth opportunities identified
 
 ---
 
