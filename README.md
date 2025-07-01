@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 Day 2: Business Intelligence Analysis
+##  Day 2: Business Intelligence Analysis
 
 ### Key Business Discoveries:
 
