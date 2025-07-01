@@ -1,5 +1,5 @@
 -- Comprehensive executive summary for C-suite decision making
-
+ 
 WITH business_metrics AS (
     -- Core business performance
     SELECT 
