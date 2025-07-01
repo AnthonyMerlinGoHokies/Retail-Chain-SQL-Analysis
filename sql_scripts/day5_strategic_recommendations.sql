@@ -1,5 +1,5 @@
 -- Data-driven insights for executive decision making
-
+ 
 WITH revenue_analysis AS (
     SELECT 
         DATE_TRUNC('quarter', o.order_date) as quarter,
