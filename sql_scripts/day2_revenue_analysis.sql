@@ -1,4 +1,3 @@
--- DAY 2: Revenue Analysis with Growth Trends
 -- Business Question: How is our revenue trending month-over-month?
 
 WITH monthly_revenue AS (
