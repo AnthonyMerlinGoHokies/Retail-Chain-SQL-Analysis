@@ -5,6 +5,7 @@
 ### Completed Milestones:
 - **Day 1**: PostgreSQL setup + Northwind database with real business data
 - **Day 2**: Advanced SQL business analytics with actionable insights
+- **Day 3**: Advanced customer analytics with RFM, CLV, and cohort analysis
 
 ---
 
@@ -54,8 +55,6 @@
 - Geographic market segmentation and opportunity identification
 - Employee performance measurement and benchmarking
 - Data-driven insights for strategic decision making
-
----
 
 ---
 
