@@ -1,6 +1,6 @@
-# 🏢 Retail Chain Performance Analysis
+# Retail Chain Performance Analysis
 
-## 📊 Live Interactive Dashboard
+## Live Interactive Dashboard
 **[View Tableau Dashboard →](https://public.tableau.com/app/profile/anthony.merlin/viz/NorthwindTradingBusinessAnalyticsDashboard/Dashboard1)**
 
 ---
