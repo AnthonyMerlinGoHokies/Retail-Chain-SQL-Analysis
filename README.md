@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-**A comprehensive 5-day SQL analytics project demonstrating senior-level data analyst capabilities through retail chain performance analysis.**
+**A comprehensive 5-day SQL analytics project demonstrating data analyst capabilities through retail chain performance analysis.**
 
 ###  PROJECT STATUS: COMPLETE -DATA ANALYST LEVEL ACHIEVED
 
