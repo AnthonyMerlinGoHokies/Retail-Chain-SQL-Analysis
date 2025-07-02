@@ -9,7 +9,7 @@
 
 **A comprehensive 5-day SQL analytics project demonstrating senior-level data analyst capabilities through retail chain performance analysis.**
 
-###  PROJECT STATUS: COMPLETE - SENIOR DATA ANALYST LEVEL ACHIEVED
+###  PROJECT STATUS: COMPLETE -DATA ANALYST LEVEL ACHIEVED
 
 ### Business Impact Summary
 - **$1.27M** total revenue analyzed across **671 days** of operations
